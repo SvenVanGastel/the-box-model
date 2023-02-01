@@ -6,3 +6,11 @@ em, strong {
 	background-color: #B2D6FF;		/* Light blue */
 	display: inline;							/* This is the default for em and strong */
 }
+
+h1 {
+  padding: 50px;
+}
+
+p {
+	padding: 20px 0 10px 0 ;					/* Top Right Bottom Left */
+}
