@@ -13,5 +13,10 @@ h1 {
 }
 
 p {
-	padding: 20px 0 10px 0 ;					/* Top Right Bottom Left */
+	padding: 20px 0 10px 0 ;			/* Top Right Bottom Left */
+	margin-bottom: 50px;
+}
+
+strong {
+	margin: 50px;
 }
